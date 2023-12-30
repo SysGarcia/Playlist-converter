@@ -8,7 +8,7 @@ from googleapiclient.discovery import build
 from googleapiclient.errors import HttpError
 
 # Google API constants
-YOUTUBE_CLIENT_SECRETS_FILE = 'client_secret_172408008935-nbl374a8i4imhq518il9hahtmd1fl0ec.apps.googleusercontent.com.json'
+YOUTUBE_CLIENT_SECRETS_FILE = 'Secret.json' #this has to be your secret file from the youtube API
 YOUTUBE_API_SERVICE_NAME = "youtube"
 YOUTUBE_API_VERSION = "v3"
 YOUTUBE_SCOPES = ["https://www.googleapis.com/auth/youtube.force-ssl"]
