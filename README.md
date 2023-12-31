@@ -38,9 +38,7 @@ Contributions to improve Playlist-converter are welcome. Feel free to fork the p
     Fork the project.
     Create your feature branch (git checkout -b feature/AmazingFeature).
     Commit your changes (git commit -m 'Add some AmazingFeature').
-
-![imagen](https://github.com/Wolfuliam/Playlist-converter/assets/147284006/0b03a9da-de03-474d-a2cf-58701bd75648)![imagen](https://github.com/Wolfuliam/Playlist-converter/assets/147284006/9305ee59-201d-4615-be25-5101d44126e8)
-
-
     Push to the branch (git push origin feature/AmazingFeature).
     Open a pull request.
+    
+![imagen](https://github.com/Wolfuliam/Playlist-converter/assets/147284006/0b03a9da-de03-474d-a2cf-58701bd75648)![imagen](https://github.com/Wolfuliam/Playlist-converter/assets/147284006/9305ee59-201d-4615-be25-5101d44126e8)
