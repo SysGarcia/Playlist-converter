@@ -28,9 +28,9 @@ def get_youtube_link(track):
 
     try:
         videos_search = VideosSearch(query, limit=1)
-        results = videos_search.result()["result"]
+        results = videos_search.result()["result"] # type: ignore
         if results:
-            return results[0]["id"]
+            return results[0]["id"] # type: ignore
         else:
             print(f"No YouTube results for {track_name} by {artist_names}")
             return None
