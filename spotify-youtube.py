@@ -88,7 +88,7 @@ def passed_time():
     print(f'\nRuntime:{time.strftime("%H:%M:%S", time.gmtime(elapsed))}')
      
 def main():
-    client_credentials_manager = SpotifyClientCredentials(client_id='a04614d3530b4d44b45fa7da39c576c0', client_secret='082376f38e3645238d96a72a3f317757')
+    client_credentials_manager = SpotifyClientCredentials(client_id='id', client_secret='secret') #this has to be yours.
     sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
 
     youtube = get_youtube_client()
